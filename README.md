@@ -19,8 +19,9 @@ As a seasoned Flutter developer, I'm now venturing into the backend landscape. M
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=frkudn&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Random Programming Quote
+![Random Programming Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Write+Code+%2C+Change+the+World;Bug+fixes+are+part+of+life;Code+is+Poetry)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=frkudn&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
@@ -35,4 +36,3 @@ Counting of visitors to this page started from 2024
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/furqanuddin)
 
-![Anime Money](https://img.shields.io/badge/Support%20Me-Anime%20Money%20Loli-%23FF69B4.svg?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=FF69B4&color=FF69B4)
