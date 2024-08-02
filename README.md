@@ -26,9 +26,10 @@ As a seasoned Flutter developer, I'm now venturing into the backend landscape. M
 ![](https://github-contributor-stats.vercel.app/api?username=frkudn&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 ### Profile Views
-counting of visitors to this page in this section started from 2024
+Counting of visitors to this page started from 2024
 
-![](https://count.getloli.com/get/frkudn.github.readme)
-</br>
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffrkudn&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)
+
+
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/furqanuddin) 
