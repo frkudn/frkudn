@@ -26,9 +26,9 @@ As a seasoned Flutter developer, I'm now venturing into the backend landscape. M
 ![](https://github-contributor-stats.vercel.app/api?username=frkudn&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 ### Profile Views
-Counting of visitors to this page started from August 2024 
+Counting of visitors to this page started from 2024
 
-[![Profile Views](https://img.shields.io/badge/Anime%20Lover-Profile%20Views-blue)](https://github.com/frkudn)
+![Profile Views](https://count.getloli.com/get/@frkudn?theme=rule34)
 
 
   ## 💰 You can help me by Donating
