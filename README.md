@@ -4,7 +4,8 @@ As a seasoned Flutter developer, I'm now venturing into the backend landscape. M
 
 
 ## 🌐 Socials:
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ffurqanuddin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/frkudn?trk=profile-badge">Furqan Uddin</a></div>
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://pk.linkedin.com/in/ffurqanuddin)](https://pk.linkedin.com/in/ffurqanuddin?trk=profile-badge) 
+[![X (Twitter) Badge](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/frkudn)](https://twitter.com/frkudn)
              
 
 # 💻 Tech Stack:
