@@ -32,4 +32,7 @@ Counting of visitors to this page started from 2024
 
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/furqanuddin) 
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/furqanuddin)
+
+![Anime Money](https://img.shields.io/badge/Support%20Me-Anime%20Money%20Loli-%23FF69B4.svg?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=FF69B4&color=FF69B4)
