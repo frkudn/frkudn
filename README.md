@@ -1,4 +1,4 @@
-![Header](https://github.com/frkudn/ffurqanuddin/blob/main/github-header-gif.gif)
+
 # 💫 About Me:
 As a seasoned Flutter developer, I'm now venturing into the backend landscape. My journey includes mastering new languages and frameworks to enhance my full-stack capabilities. Join me as I explore and innovate, blending frontend artistry with backend precision. Dive into my repos to see the fusion of creativity and technology.
 
