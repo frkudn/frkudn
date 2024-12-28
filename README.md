@@ -31,7 +31,6 @@ As a seasoned Flutter developer, I'm now venturing into the backend landscape. M
 
 
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=frkudn&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
 
