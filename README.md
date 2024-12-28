@@ -24,7 +24,7 @@ As a seasoned Flutter developer, I'm now venturing into the backend landscape. M
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=frkudn&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=frkudn&theme=vision-friendly-dark&hide_border=false)<br/>
-
+![frkudn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frkudn&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
