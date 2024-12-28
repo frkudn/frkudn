@@ -24,9 +24,7 @@ As a seasoned Flutter developer, I'm now venturing into the backend landscape. M
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=frkudn&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=frkudn&theme=vision-friendly-dark&hide_border=false)<br/>
-[![Repos per Language](https://github.com/monkeyWie/monkeyWie/raw/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/monkeyWie)
-
-
+[![Repos per Language](https://github.com/frkudn/frkudn/raw/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/frkudn)
 
 
 
