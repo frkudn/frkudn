@@ -14,9 +14,11 @@ String license    = 'MIT'; // always
 var    os         = 🐧;    // not a phase
 ```
 
-<br/><br/>
+<br/>
 
-<sub>flutter &nbsp;·&nbsp; bloc &nbsp;·&nbsp; dart &nbsp;·&nbsp; linux &nbsp;·&nbsp; git &nbsp;·&nbsp; nosql &nbsp;·&nbsp; foss</sub>
+```
+// if you know, you know.
+```
 
 <br/><br/><br/>
 
@@ -29,7 +31,7 @@ var    os         = 🐧;    // not a phase
 <br/>
 
 <sub>find me everywhere as **frkudn**
-&nbsp;·&nbsp; [linkedin](https://linkedin.com/in/frkudn) &nbsp;·&nbsp; [x](https://x.com/frkudn) &nbsp;·&nbsp; [bluesky](https://bsky.app/profile/frkudn.bsky.social) &nbsp;·&nbsp; [tiktok](https://tiktok.com/@frkudn) &nbsp;·&nbsp; [discord](https://discord.com/users/frkudn)</sub>
+&nbsp;·&nbsp; [linkedin](https://linkedin.com/in/frkudn) &nbsp;·&nbsp; [x](https://x.com/frkudn) &nbsp;·&nbsp; [bluesky](https://bsky.app/profile/frkudn.bsky.social) &nbsp;·&nbsp;  [discord](https://discord.com/users/frkudn)</sub>
 
 <br/><br/>
 
