@@ -16,13 +16,17 @@ var    os         = 🐧;    // not a phase
 
 <br/><br/>
 
+<sub>flutter &nbsp;·&nbsp; bloc &nbsp;·&nbsp; dart &nbsp;·&nbsp; linux &nbsp;·&nbsp; git &nbsp;·&nbsp; nosql &nbsp;·&nbsp; foss</sub>
+
+<br/><br/><br/>
+
 <img src="https://streak-stats.demolab.com/?user=frkudn&theme=dark&hide_border=true&background=00000000&stroke=ffffff08&ring=ffffff22&fire=ffffff44&currStreakLabel=ffffff33&sideLabels=ffffff22&dates=ffffff18&sideNums=ffffff55&currStreakNum=ffffff77&border_radius=4" />
 
 <br/><br/><br/>
 
 [`frkudn.github.io`](https://frkudn.github.io)
 
-<br/><br/>
+<br/>
 
 <sub>find me everywhere as **frkudn**
 &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/frkudn) &nbsp;·&nbsp; [x](https://x.com/frkudn) &nbsp;·&nbsp; [bluesky](https://bsky.app/profile/frkudn.bsky.social) &nbsp;·&nbsp; [tiktok](https://tiktok.com/@frkudn) &nbsp;·&nbsp; [discord](https://discord.com/users/frkudn)</sub>
