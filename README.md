@@ -1,159 +1,199 @@
+<!-- ////////////////////////////////////////////////////////////// -->
+<!-- //  frkudn/frkudn — a github profile written in terminal   // -->
+<!-- ////////////////////////////////////////////////////////////// -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=0175C2&center=true&vCenter=true&width=600&lines=hey%2C+I'm+Furkan+%F0%9F%91%8B;aka+frkudn;Flutter+dev+%7C+FOSS+builder;I+ship+things.+Quietly." alt="Typing SVG" />
-
-<br/>
-
-> *builds free, open alternatives — better UX, real privacy, zero cost.*
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/◉_frkudn.github.io-0175C2?style=for-the-badge&logoColor=white)](https://frkudn.github.io)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1400&pause=500&color=4ADE80&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=120&lines=%5B+OK+%5D+Loaded+flutter.mod+................+done;%5B+OK+%5D+Started+BLoC+State+Machine+........+done;%5B+OK+%5D+Mounted+Linux+%2Fdev%2Fsoul+..........+done;%5B+OK+%5D+Reached+target+FOSS+...............+done;%E2%96%88+frkudn%40arch+~+%24+" />
 
 </div>
 
----
+<br/>
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=frkudn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+```bash
+frkudn@arch ~ $ whoami
+```
 
 ```dart
-// who is frkudn?
+class Furkan {
+  final alias    = 'frkudn';
+  final based_in = '🌍 earth';
+  final runs_on  = '🐧 arch linux';
 
-class Furkan extends Developer {
-
-  @override
-  final name   = 'Furkan Uddin';
-  final alias  = 'frkudn';
-  final os     = '🐧 Arch Linux';
-
-  final mainStack = [
-    'Flutter', 'Dart', 'BLoC',
-  ];
-
-  final values = {
-    'foss'      : true,   // always
-    'privacy'   : true,   // non-negotiable
-    'degrees'   : false,  // skills > certs
-    'deadlines' : null,   // I code when I feel like it
+  final craft = {
+    'primary'  : 'Flutter — pixel-perfect, 60fps, always',
+    'state'    : 'BLoC — clean, scalable, mine',
+    'pattern'  : 'CRAFT — my own architecture',
+    'mission'  : 'build free, open alternatives to everything',
   };
 
-  String get motto =>
-    'open source is not a feature — it\'s a principle';
+  bool   get hasDegree  => false;  // skills > certs
+  bool   get hasDeadline => false; // I code when I feel like it
+  String get license    => 'MIT — always free, always open';
+  var    get future     => ???;    // genuinely no idea. that's the fun.
 }
 ```
 
-<br clear="right"/>
+<br/>
 
----
+```bash
+frkudn@arch ~ $ ls -lah ~/projects/
+```
 
-### `~/stack` — what I actually use
+```
+total  ∞
+
+drwxr-xr-x  🎵  player              ·  open-source media player · 50+ formats · 10-band eq · zero tracking
+drwxr-xr-x  🎧  lofiii              ·  lo-fi streaming · offline mode · curated library · full privacy  
+drwxr-xr-x  📐  flutter_responsive  ·  responsive utils for flutter · zero bloat · single file · MIT
+drwxr-xr-x  🧱  craft-template      ·  my flutter architecture · bloc · feature-first · backend-agnostic
+drwxr-xr-x  🐧  linux-software      ·  [ coming soon — the linux desktop needs better apps ]
+```
+
+> ↳ **[player](https://frkudn.github.io/player)** · **[lofiii](https://github.com/frkudn/lofiii)** · **[flutter_responsive](https://github.com/frkudn/flutter_responsive)** · **[craft-template](https://github.com/frkudn/craft-flutter-template)** · **[everything else →](https://github.com/frkudn?tab=repositories)**
 
 <br/>
 
-**Core**
+```bash
+frkudn@arch ~ $ cat ~/.config/stack.conf
+```
 
-![Flutter](https://img.shields.io/badge/Flutter-0175C2?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&labelColor=00589B)
-![BLoC](https://img.shields.io/badge/BLoC_Pattern-8B5CF6?style=flat-square&logoColor=white)
-![CRAFT](https://img.shields.io/badge/CRAFT_Architecture-6D28D9?style=flat-square&logoColor=white)
+```toml
+# frkudn's stack — last modified: always
 
-**Backend & Data**
+[core]
+primary      = Flutter
+language     = Dart
+state        = BLoC
+architecture = CRAFT
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+[backend]
+runtime      = Node.js
+framework    = Fastify
+databases    = MongoDB, Redis, Firebase
 
-**Environment**
+[environment]
+os           = Arch Linux        # not a phase, a lifestyle
+editor       = Neovim
+vcs          = Git
+containers   = Docker
 
-![Linux](https://img.shields.io/badge/Linux-daily_driver-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-
----
-
-### `~/shipped` — things I built
+[nonnegotiable]
+license      = MIT
+tracking     = false
+paywalls     = false
+ads          = absolutely not
+```
 
 <br/>
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🎵 **[Player](https://frkudn.github.io/player)** | Open-source media player. 50+ formats, 10-band EQ, time-synced lyrics. Zero tracking. | Flutter · BLoC · just_audio |
-| 🎧 **[LOFIII](https://github.com/frkudn/lofiii)** | Lo-Fi streaming app. Offline mode, curated library, full privacy. | Flutter · REST · Hive |
-| 📐 **[flutter_responsive](https://github.com/frkudn/flutter_responsive)** | Lightweight responsive utility. Breakpoints, extensions, zero bloat. | Dart Package · MIT |
-| 🧱 **[CRAFT Template](https://github.com/frkudn/craft-flutter-template)** | My personal Flutter architecture. Feature-first, backend-agnostic, BLoC-powered. | Flutter · Clean Arch |
+```bash
+frkudn@arch ~ $ cat ~/.values.json
+```
 
----
+```json
+{
+  "open_source"       : "everything i build is public by default",
+  "privacy"           : "non-negotiable, not a feature",
+  "linux"             : "i own my machine, i don't rent it",
+  "skills_over_certs" : true,
+  "schedule"          : "whenever i feel like it",
+  "deadlines"         : null,
+  "future_plans"      : "???"
+}
+```
 
-### `~/stats`
+<br/>
+
+```bash
+frkudn@arch ~ $ neofetch
+```
+
+```
+                   /\                 frkudn @ arch
+                  /  \                ───────────────────────────────────
+                 /\  /\               OS      →  Arch Linux x86_64
+                /  \/  \              Shell   →  zsh + starship
+               /   /\   \            Editor  →  neovim
+              /   /  \   \           Stack   →  flutter · dart · bloc
+             /   / /\ \   \          Values  →  foss · privacy · craft
+            /___/____\___\_\         Uptime  →  always
+                                     Quote   →  "open source is a principle,
+                                                  not a feature"
+```
+
+<br/>
+
+```bash
+frkudn@arch ~ $ git log --all --graph --stat
+```
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=frkudn&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frkudn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=frkudn&theme=dark&hide_border=true&background=0D1117&stroke=1a1a2e&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=888&dates=555&sideNums=ffffff&currStreakNum=ffffff&border_radius=6" />
 
 <br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=frkudn&theme=tokyo-night&hide_border=true&area=true&area_color=0175C2)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=frkudn&theme=github-compact&hide_border=true&bg_color=0D1117&color=4ADE80&line=4ADE80&point=ffffff&area=true&area_color=4ADE80" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=frkudn&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=4ADE80&icon_color=4ADE80&text_color=888888&include_all_commits=true&count_private=true&rank_icon=percentile" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frkudn&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4ADE80&text_color=888888&langs_count=6" width="49%" />
 
 </div>
 
----
+<br/>
 
-### `~/trophies`
+```bash
+frkudn@arch ~ $ ping --resolve frkudn.social
+```
+
+```
+scanning all known nodes...
+
+  ◉  linkedin  ─────  pk.linkedin.com/in/frkudn   [REACHABLE]
+  ◉  x         ─────  x.com/frkudn                [REACHABLE]
+  ◉  bluesky   ─────  bsky.app/profile/frkudn      [REACHABLE]
+  ◉  tiktok    ─────  tiktok.com/@frkudn           [REACHABLE]
+  ◉  discord   ─────  frkudn                       [REACHABLE]
+
+  5 nodes resolved · 0 lost · latency: worth it
+```
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=frkudn&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)
+[![LinkedIn](https://img.shields.io/badge/linkedin-frkudn-4ADE80?style=flat-square&logo=linkedin&logoColor=4ADE80&labelColor=0D1117&color=0D1117)](https://linkedin.com/in/frkudn)
+[![X](https://img.shields.io/badge/x-frkudn-4ADE80?style=flat-square&logo=x&logoColor=4ADE80&labelColor=0D1117&color=0D1117)](https://x.com/frkudn)
+[![Bluesky](https://img.shields.io/badge/bluesky-frkudn-4ADE80?style=flat-square&logo=bluesky&logoColor=4ADE80&labelColor=0D1117&color=0D1117)](https://bsky.app/profile/frkudn.bsky.social)
+[![TikTok](https://img.shields.io/badge/tiktok-frkudn-4ADE80?style=flat-square&logo=tiktok&logoColor=4ADE80&labelColor=0D1117&color=0D1117)](https://tiktok.com/@frkudn)
+[![Discord](https://img.shields.io/badge/discord-frkudn-4ADE80?style=flat-square&logo=discord&logoColor=4ADE80&labelColor=0D1117&color=0D1117)](https://discord.com/users/frkudn)
 
 </div>
 
----
+<br/>
 
-### `~/philosophy`
+```bash
+frkudn@arch ~ $ cat ~/portfolio.url
+```
+```
+→  https://frkudn.github.io
+```
+
+<br/>
+
+---
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   "If you can't read the code,                          │
-│    you can't trust the software.                        │
-│                                                         │
-│    Open source is not a feature —                       │
-│    it's a principle."                                   │
-│                                                         │
-│    — frkudn                                             │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+frkudn@arch ~ $ █
 ```
 
-</div>
+*session active · all builds MIT licensed · all code public · zero tracking*
 
-🔓 Everything I build is MIT licensed — fork it, audit it, ship it.  
-🔒 Privacy by default, not by marketing.  
-🐧 Linux because I own my machine, not rent it.  
-🦋 Flutter main stack — obsessed with smooth, native UX.  
-🤷 No roadmap. The best projects haven't been imagined yet.
-
----
-
-### `~/find-me`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-frkudn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/frkudn)
-[![X](https://img.shields.io/badge/X_(Twitter)-frkudn-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/frkudn)
-[![Bluesky](https://img.shields.io/badge/Bluesky-frkudn-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/frkudn.bsky.social)
-[![TikTok](https://img.shields.io/badge/TikTok-frkudn-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@frkudn)
-[![Discord](https://img.shields.io/badge/Discord-frkudn-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/frkudn)
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=2000&color=555555&center=true&vCenter=true&width=500&lines=thanks+for+stopping+by+%3A)" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=frkudn&color=0175C2&style=flat-square&label=profile+views)
+<img src="https://komarev.com/ghpvc/?username=frkudn&color=4ADE80&style=flat-square&label=visitors" />
 
 </div>
+
+<!-- eof -->
