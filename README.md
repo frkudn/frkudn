@@ -2,16 +2,16 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=15&duration=4000&pause=3000&color=888888&center=true&vCenter=true&width=400&lines=i+build+things.;most+of+them+are+free.;all+of+them+are+open." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=15&duration=3500&pause=2000&color=888888&center=true&vCenter=true&width=480&lines=i+build+things.;most+of+them+are+free.;all+of+them+are+open.;privacy+is+not+a+feature+%E2%80%94+it%27s+the+default.;if+it+tracks+you%2C+there%27s+a+better+version.;i%27m+probably+building+it.;your+data+stays+yours.;no+tracking.+no+paywalls.+no+noise.;open+source+or+it+didn%27t+happen.;freedom+isn%27t+a+selling+point.+it%27s+the+point.;fork+it.+audit+it.+own+it.;the+best+software+costs+nothing.;closed+source+is+a+trust+issue.;MIT.+always.;if+you+can+read+the+code%2C+you+can+trust+it.;the+internet+deserves+better+software.;i%27m+working+on+it.;build+it+free+or+don%27t+build+it.;privacy+is+not+paranoia.+it%27s+respect.;still+compiling.+always." />
 
 <br/><br/><br/>
 
 ```dart
 // Furkan
 
-bool     hasPlan  = false;          // intentional
-String   license  = 'MIT';          // always
-var      os       = 🐧;             // not a phase
+bool     hasPlan  = false;           // intentional
+String   license  = 'MIT';           // always
+var      os       = 🐧;              // not a phase
 double   version  = double.infinity; // still compiling
 ```
 
