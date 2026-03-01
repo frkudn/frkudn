@@ -7,11 +7,12 @@
 <br/><br/><br/>
 
 ```dart
-// frkudn
+// Furkan
 
-bool   hasPlan    = false; // intentional
-String license    = 'MIT'; // always
-var    os         = 🐧;    // not a phase
+bool     hasPlan  = false;          // intentional
+String   license  = 'MIT';          // always
+var      os       = 🐧;             // not a phase
+double   version  = double.infinity; // still compiling
 ```
 
 <br/>
@@ -31,7 +32,7 @@ var    os         = 🐧;    // not a phase
 <br/>
 
 <sub>find me everywhere as **frkudn**
-&nbsp;·&nbsp; [linkedin](https://linkedin.com/in/frkudn) &nbsp;·&nbsp; [x](https://x.com/frkudn) &nbsp;·&nbsp; [bluesky](https://bsky.app/profile/frkudn.bsky.social) &nbsp;·&nbsp;  [discord](https://discord.com/users/frkudn)</sub>
+&nbsp;·&nbsp; [linkedin](https://linkedin.com/in/frkudn) &nbsp;·&nbsp; [x](https://x.com/frkudn) &nbsp;·&nbsp; [bluesky](https://bsky.app/profile/frkudn.bsky.social) &nbsp;·&nbsp; [discord](https://discord.com/users/frkudn)</sub>
 
 <br/><br/>
 
