@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 50" width="680" height="50">
+<rect width="680" height="50" fill="none"/>
+<style>
+  .t { font-family: "JetBrains Mono", "Courier New", monospace; font-size: 15px; font-weight: 300; fill: #888888; opacity: 0; text-anchor: middle; }
+  @keyframes k0 { 0%,0.0%{opacity:0} 0.1094%{opacity:1} 1.0938%{opacity:1} 1.25%,100%{opacity:0} }
+  @keyframes k1 { 0%,1.25%{opacity:0} 1.3594%{opacity:1} 2.3438%{opacity:1} 2.5%,100%{opacity:0} }
+  @keyframes k2 { 0%,2.5%{opacity:0} 2.6094%{opacity:1} 3.5937%{opacity:1} 3.75%,100%{opacity:0} }
+  @keyframes k3 { 0%,3.75%{opacity:0} 3.8594%{opacity:1} 4.8438%{opacity:1} 5.0%,100%{opacity:0} }
+  @keyframes k4 { 0%,5.0%{opacity:0} 5.1094%{opacity:1} 6.0938%{opacity:1} 6.25%,100%{opacity:0} }
+  @keyframes k5 { 0%,6.25%{opacity:0} 6.3594%{opacity:1} 7.3438%{opacity:1} 7.5%,100%{opacity:0} }
+  @keyframes k6 { 0%,7.5%{opacity:0} 7.6094%{opacity:1} 8.5938%{opacity:1} 8.75%,100%{opacity:0} }
+  @keyframes k7 { 0%,8.75%{opacity:0} 8.8594%{opacity:1} 9.8438%{opacity:1} 10.0%,100%{opacity:0} }
+  @keyframes k8 { 0%,10.0%{opacity:0} 10.1094%{opacity:1} 11.0938%{opacity:1} 11.25%,100%{opacity:0} }
+  @keyframes k9 { 0%,11.25%{opacity:0} 11.3594%{opacity:1} 12.3438%{opacity:1} 12.5%,100%{opacity:0} }
+  @keyframes k10 { 0%,12.5%{opacity:0} 12.6094%{opacity:1} 13.5937%{opacity:1} 13.75%,100%{opacity:0} }
+  @keyframes k11 { 0%,13.75%{opacity:0} 13.8594%{opacity:1} 14.8438%{opacity:1} 15.0%,100%{opacity:0} }
+  @keyframes k12 { 0%,15.0%{opacity:0} 15.1094%{opacity:1} 16.0938%{opacity:1} 16.25%,100%{opacity:0} }
+  @keyframes k13 { 0%,16.25%{opacity:0} 16.3594%{opacity:1} 17.3438%{opacity:1} 17.5%,100%{opacity:0} }
+  @keyframes k14 { 0%,17.5%{opacity:0} 17.6094%{opacity:1} 18.5938%{opacity:1} 18.75%,100%{opacity:0} }
+  @keyframes k15 { 0%,18.75%{opacity:0} 18.8594%{opacity:1} 19.8438%{opacity:1} 20.0%,100%{opacity:0} }
+  @keyframes k16 { 0%,20.0%{opacity:0} 20.1094%{opacity:1} 21.0938%{opacity:1} 21.25%,100%{opacity:0} }
+  @keyframes k17 { 0%,21.25%{opacity:0} 21.3594%{opacity:1} 22.3438%{opacity:1} 22.5%,100%{opacity:0} }
+  @keyframes k18 { 0%,22.5%{opacity:0} 22.6094%{opacity:1} 23.5938%{opacity:1} 23.75%,100%{opacity:0} }
+  @keyframes k19 { 0%,23.75%{opacity:0} 23.8594%{opacity:1} 24.8438%{opacity:1} 25.0%,100%{opacity:0} }
+  @keyframes k20 { 0%,25.0%{opacity:0} 25.1094%{opacity:1} 26.0938%{opacity:1} 26.25%,100%{opacity:0} }
+  @keyframes k21 { 0%,26.25%{opacity:0} 26.3594%{opacity:1} 27.3438%{opacity:1} 27.5%,100%{opacity:0} }
+  @keyframes k22 { 0%,27.5%{opacity:0} 27.6094%{opacity:1} 28.5938%{opacity:1} 28.75%,100%{opacity:0} }
+  @keyframes k23 { 0%,28.75%{opacity:0} 28.8594%{opacity:1} 29.8438%{opacity:1} 30.0%,100%{opacity:0} }
+  @keyframes k24 { 0%,30.0%{opacity:0} 30.1094%{opacity:1} 31.0937%{opacity:1} 31.25%,100%{opacity:0} }
+  @keyframes k25 { 0%,31.25%{opacity:0} 31.3594%{opacity:1} 32.3438%{opacity:1} 32.5%,100%{opacity:0} }
+  @keyframes k26 { 0%,32.5%{opacity:0} 32.6094%{opacity:1} 33.5938%{opacity:1} 33.75%,100%{opacity:0} }
+  @keyframes k27 { 0%,33.75%{opacity:0} 33.8594%{opacity:1} 34.8438%{opacity:1} 35.0%,100%{opacity:0} }
+  @keyframes k28 { 0%,35.0%{opacity:0} 35.1094%{opacity:1} 36.0938%{opacity:1} 36.25%,100%{opacity:0} }
+  @keyframes k29 { 0%,36.25%{opacity:0} 36.3594%{opacity:1} 37.3438%{opacity:1} 37.5%,100%{opacity:0} }
+  @keyframes k30 { 0%,37.5%{opacity:0} 37.6094%{opacity:1} 38.5938%{opacity:1} 38.75%,100%{opacity:0} }
+  @keyframes k31 { 0%,38.75%{opacity:0} 38.8594%{opacity:1} 39.8438%{opacity:1} 40.0%,100%{opacity:0} }
+  @keyframes k32 { 0%,40.0%{opacity:0} 40.1094%{opacity:1} 41.0938%{opacity:1} 41.25%,100%{opacity:0} }
+  @keyframes k33 { 0%,41.25%{opacity:0} 41.3594%{opacity:1} 42.3438%{opacity:1} 42.5%,100%{opacity:0} }
+  @keyframes k34 { 0%,42.5%{opacity:0} 42.6094%{opacity:1} 43.5938%{opacity:1} 43.75%,100%{opacity:0} }
+  @keyframes k35 { 0%,43.75%{opacity:0} 43.8594%{opacity:1} 44.8438%{opacity:1} 45.0%,100%{opacity:0} }
+  @keyframes k36 { 0%,45.0%{opacity:0} 45.1094%{opacity:1} 46.0938%{opacity:1} 46.25%,100%{opacity:0} }
+  @keyframes k37 { 0%,46.25%{opacity:0} 46.3594%{opacity:1} 47.3438%{opacity:1} 47.5%,100%{opacity:0} }
+  @keyframes k38 { 0%,47.5%{opacity:0} 47.6094%{opacity:1} 48.5938%{opacity:1} 48.75%,100%{opacity:0} }
+  @keyframes k39 { 0%,48.75%{opacity:0} 48.8594%{opacity:1} 49.8438%{opacity:1} 50.0%,100%{opacity:0} }
+  @keyframes k40 { 0%,50.0%{opacity:0} 50.1094%{opacity:1} 51.0938%{opacity:1} 51.25%,100%{opacity:0} }
+  @keyframes k41 { 0%,51.25%{opacity:0} 51.3594%{opacity:1} 52.3438%{opacity:1} 52.5%,100%{opacity:0} }
+  @keyframes k42 { 0%,52.5%{opacity:0} 52.6094%{opacity:1} 53.5937%{opacity:1} 53.75%,100%{opacity:0} }
+  @keyframes k43 { 0%,53.75%{opacity:0} 53.8594%{opacity:1} 54.8438%{opacity:1} 55.0%,100%{opacity:0} }
+  @keyframes k44 { 0%,55.0%{opacity:0} 55.1094%{opacity:1} 56.0938%{opacity:1} 56.25%,100%{opacity:0} }
+  @keyframes k45 { 0%,56.25%{opacity:0} 56.3594%{opacity:1} 57.3438%{opacity:1} 57.5%,100%{opacity:0} }
+  @keyframes k46 { 0%,57.5%{opacity:0} 57.6094%{opacity:1} 58.5938%{opacity:1} 58.75%,100%{opacity:0} }
+  @keyframes k47 { 0%,58.75%{opacity:0} 58.8594%{opacity:1} 59.8437%{opacity:1} 60.0%,100%{opacity:0} }
+  @keyframes k48 { 0%,60.0%{opacity:0} 60.1094%{opacity:1} 61.0938%{opacity:1} 61.25%,100%{opacity:0} }
+  @keyframes k49 { 0%,61.25%{opacity:0} 61.3594%{opacity:1} 62.3438%{opacity:1} 62.5%,100%{opacity:0} }
+  @keyframes k50 { 0%,62.5%{opacity:0} 62.6094%{opacity:1} 63.5938%{opacity:1} 63.75%,100%{opacity:0} }
+  @keyframes k51 { 0%,63.75%{opacity:0} 63.8594%{opacity:1} 64.8438%{opacity:1} 65.0%,100%{opacity:0} }
+  @keyframes k52 { 0%,65.0%{opacity:0} 65.1094%{opacity:1} 66.0938%{opacity:1} 66.25%,100%{opacity:0} }
+  @keyframes k53 { 0%,66.25%{opacity:0} 66.3594%{opacity:1} 67.3438%{opacity:1} 67.5%,100%{opacity:0} }
+  @keyframes k54 { 0%,67.5%{opacity:0} 67.6094%{opacity:1} 68.5938%{opacity:1} 68.75%,100%{opacity:0} }
+  @keyframes k55 { 0%,68.75%{opacity:0} 68.8594%{opacity:1} 69.8438%{opacity:1} 70.0%,100%{opacity:0} }
+  @keyframes k56 { 0%,70.0%{opacity:0} 70.1094%{opacity:1} 71.0938%{opacity:1} 71.25%,100%{opacity:0} }
+  @keyframes k57 { 0%,71.25%{opacity:0} 71.3594%{opacity:1} 72.3438%{opacity:1} 72.5%,100%{opacity:0} }
+  @keyframes k58 { 0%,72.5%{opacity:0} 72.6094%{opacity:1} 73.5938%{opacity:1} 73.75%,100%{opacity:0} }
+  @keyframes k59 { 0%,73.75%{opacity:0} 73.8594%{opacity:1} 74.8438%{opacity:1} 75.0%,100%{opacity:0} }
+  @keyframes k60 { 0%,75.0%{opacity:0} 75.1094%{opacity:1} 76.0938%{opacity:1} 76.25%,100%{opacity:0} }
+  @keyframes k61 { 0%,76.25%{opacity:0} 76.3594%{opacity:1} 77.3438%{opacity:1} 77.5%,100%{opacity:0} }
+  @keyframes k62 { 0%,77.5%{opacity:0} 77.6094%{opacity:1} 78.5938%{opacity:1} 78.75%,100%{opacity:0} }
+  @keyframes k63 { 0%,78.75%{opacity:0} 78.8594%{opacity:1} 79.8438%{opacity:1} 80.0%,100%{opacity:0} }
+  @keyframes k64 { 0%,80.0%{opacity:0} 80.1094%{opacity:1} 81.0938%{opacity:1} 81.25%,100%{opacity:0} }
+  @keyframes k65 { 0%,81.25%{opacity:0} 81.3594%{opacity:1} 82.3438%{opacity:1} 82.5%,100%{opacity:0} }
+  @keyframes k66 { 0%,82.5%{opacity:0} 82.6094%{opacity:1} 83.5938%{opacity:1} 83.75%,100%{opacity:0} }
+  @keyframes k67 { 0%,83.75%{opacity:0} 83.8594%{opacity:1} 84.8438%{opacity:1} 85.0%,100%{opacity:0} }
+  @keyframes k68 { 0%,85.0%{opacity:0} 85.1094%{opacity:1} 86.0938%{opacity:1} 86.25%,100%{opacity:0} }
+  @keyframes k69 { 0%,86.25%{opacity:0} 86.3594%{opacity:1} 87.3438%{opacity:1} 87.5%,100%{opacity:0} }
+  @keyframes k70 { 0%,87.5%{opacity:0} 87.6094%{opacity:1} 88.5938%{opacity:1} 88.75%,100%{opacity:0} }
+  @keyframes k71 { 0%,88.75%{opacity:0} 88.8594%{opacity:1} 89.8438%{opacity:1} 90.0%,100%{opacity:0} }
+  @keyframes k72 { 0%,90.0%{opacity:0} 90.1094%{opacity:1} 91.0938%{opacity:1} 91.25%,100%{opacity:0} }
+  @keyframes k73 { 0%,91.25%{opacity:0} 91.3594%{opacity:1} 92.3438%{opacity:1} 92.5%,100%{opacity:0} }
+  @keyframes k74 { 0%,92.5%{opacity:0} 92.6094%{opacity:1} 93.5938%{opacity:1} 93.75%,100%{opacity:0} }
+  @keyframes k75 { 0%,93.75%{opacity:0} 93.8594%{opacity:1} 94.8438%{opacity:1} 95.0%,100%{opacity:0} }
+  @keyframes k76 { 0%,95.0%{opacity:0} 95.1094%{opacity:1} 96.0938%{opacity:1} 96.25%,100%{opacity:0} }
+  @keyframes k77 { 0%,96.25%{opacity:0} 96.3594%{opacity:1} 97.3438%{opacity:1} 97.5%,100%{opacity:0} }
+  @keyframes k78 { 0%,97.5%{opacity:0} 97.6094%{opacity:1} 98.5938%{opacity:1} 98.75%,100%{opacity:0} }
+  @keyframes k79 { 0%,98.75%{opacity:0} 98.8594%{opacity:1} 99.8438%{opacity:1} 100.0%,100%{opacity:0} }
+</style>
+  <text class="t" x="340" y="31" style="animation:k0 320.0s linear infinite">i build things.</text>
+  <text class="t" x="340" y="31" style="animation:k1 320.0s linear infinite">most of them are free.</text>
+  <text class="t" x="340" y="31" style="animation:k2 320.0s linear infinite">all of them are open.</text>
+  <text class="t" x="340" y="31" style="animation:k3 320.0s linear infinite">quietly.</text>
+  <text class="t" x="340" y="31" style="animation:k4 320.0s linear infinite">no announcements.</text>
+  <text class="t" x="340" y="31" style="animation:k5 320.0s linear infinite">just commits.</text>
+  <text class="t" x="340" y="31" style="animation:k6 320.0s linear infinite">the work speaks.</text>
+  <text class="t" x="340" y="31" style="animation:k7 320.0s linear infinite">or it doesn't. either way.</text>
+  <text class="t" x="340" y="31" style="animation:k8 320.0s linear infinite">free doesn't mean cheap.</text>
+  <text class="t" x="340" y="31" style="animation:k9 320.0s linear infinite">it means the builder didn't need your money to care.</text>
+  <text class="t" x="340" y="31" style="animation:k10 320.0s linear infinite">free software is not a discount. it's a decision.</text>
+  <text class="t" x="340" y="31" style="animation:k11 320.0s linear infinite">open source is not a charity. it's a standard.</text>
+  <text class="t" x="340" y="31" style="animation:k12 320.0s linear infinite">you paid nothing. that doesn't mean it cost nothing.</text>
+  <text class="t" x="340" y="31" style="animation:k13 320.0s linear infinite">passion ships faster than deadlines.</text>
+  <text class="t" x="340" y="31" style="animation:k14 320.0s linear infinite">i build it because i want to. not because i'm paid to.</text>
+  <text class="t" x="340" y="31" style="animation:k15 320.0s linear infinite">the best things don't have a price tag. some are on github.</text>
+  <text class="t" x="340" y="31" style="animation:k16 320.0s linear infinite">your search history doesn't belong to mountain view.</text>
+  <text class="t" x="340" y="31" style="animation:k17 320.0s linear infinite">your messages don't belong to menlo park.</text>
+  <text class="t" x="340" y="31" style="animation:k18 320.0s linear infinite">your files don't belong to seattle.</text>
+  <text class="t" x="340" y="31" style="animation:k19 320.0s linear infinite">your attention doesn't belong to anyone.</text>
+  <text class="t" x="340" y="31" style="animation:k20 320.0s linear infinite">we outsourced the internet to four companies.</text>
+  <text class="t" x="340" y="31" style="animation:k21 320.0s linear infinite">that was a mistake.</text>
+  <text class="t" x="340" y="31" style="animation:k22 320.0s linear infinite">we can take it back.</text>
+  <text class="t" x="340" y="31" style="animation:k23 320.0s linear infinite">one repo at a time.</text>
+  <text class="t" x="340" y="31" style="animation:k24 320.0s linear infinite">no vc. no board. no permission.</text>
+  <text class="t" x="340" y="31" style="animation:k25 320.0s linear infinite">the internet was supposed to be ours.</text>
+  <text class="t" x="340" y="31" style="animation:k26 320.0s linear infinite">somewhere it stopped being.</text>
+  <text class="t" x="340" y="31" style="animation:k27 320.0s linear infinite">we're building it back.</text>
+  <text class="t" x="340" y="31" style="animation:k28 320.0s linear infinite">decentralized. open. free.</text>
+  <text class="t" x="340" y="31" style="animation:k29 320.0s linear infinite">not google's. not meta's. not amazon's.</text>
+  <text class="t" x="340" y="31" style="animation:k30 320.0s linear infinite">ours.</text>
+  <text class="t" x="340" y="31" style="animation:k31 320.0s linear infinite">what if we just built our own?</text>
+  <text class="t" x="340" y="31" style="animation:k32 320.0s linear infinite">our own tools. our own stack. our own rules.</text>
+  <text class="t" x="340" y="31" style="animation:k33 320.0s linear infinite">not waiting for permission.</text>
+  <text class="t" x="340" y="31" style="animation:k34 320.0s linear infinite">not waiting for funding.</text>
+  <text class="t" x="340" y="31" style="animation:k35 320.0s linear infinite">just building.</text>
+  <text class="t" x="340" y="31" style="animation:k36 320.0s linear infinite">MIT licensed. forever.</text>
+  <text class="t" x="340" y="31" style="animation:k37 320.0s linear infinite">fork it. make it yours.</text>
+  <text class="t" x="340" y="31" style="animation:k38 320.0s linear infinite">privacy is not a feature. it's the default.</text>
+  <text class="t" x="340" y="31" style="animation:k39 320.0s linear infinite">if it tracks you, there's a better version.</text>
+  <text class="t" x="340" y="31" style="animation:k40 320.0s linear infinite">i'm probably building it.</text>
+  <text class="t" x="340" y="31" style="animation:k41 320.0s linear infinite">your data stays yours.</text>
+  <text class="t" x="340" y="31" style="animation:k42 320.0s linear infinite">no tracking. no paywalls. no noise.</text>
+  <text class="t" x="340" y="31" style="animation:k43 320.0s linear infinite">you shouldn't have to pay to be left alone.</text>
+  <text class="t" x="340" y="31" style="animation:k44 320.0s linear infinite">surveillance is not a business model i accept.</text>
+  <text class="t" x="340" y="31" style="animation:k45 320.0s linear infinite">closed source is a trust issue.</text>
+  <text class="t" x="340" y="31" style="animation:k46 320.0s linear infinite">if you can read the code, you can trust it.</text>
+  <text class="t" x="340" y="31" style="animation:k47 320.0s linear infinite">skills over certificates. always.</text>
+  <text class="t" x="340" y="31" style="animation:k48 320.0s linear infinite">curiosity over credentials.</text>
+  <text class="t" x="340" y="31" style="animation:k49 320.0s linear infinite">i code when i feel like it.</text>
+  <text class="t" x="340" y="31" style="animation:k50 320.0s linear infinite">no deadlines. no sprints. no standups.</text>
+  <text class="t" x="340" y="31" style="animation:k51 320.0s linear infinite">consistency beats intensity.</text>
+  <text class="t" x="340" y="31" style="animation:k52 320.0s linear infinite">the best devs i know have no degree.</text>
+  <text class="t" x="340" y="31" style="animation:k53 320.0s linear infinite">learn because you want to. not because you have to.</text>
+  <text class="t" x="340" y="31" style="animation:k54 320.0s linear infinite">good software is quiet. it just works.</text>
+  <text class="t" x="340" y="31" style="animation:k55 320.0s linear infinite">open source or it didn't happen.</text>
+  <text class="t" x="340" y="31" style="animation:k56 320.0s linear infinite">MIT. always.</text>
+  <text class="t" x="340" y="31" style="animation:k57 320.0s linear infinite">freedom isn't a feature. it's the foundation.</text>
+  <text class="t" x="340" y="31" style="animation:k58 320.0s linear infinite">build it free or don't build it.</text>
+  <text class="t" x="340" y="31" style="animation:k59 320.0s linear infinite">the best software costs nothing.</text>
+  <text class="t" x="340" y="31" style="animation:k60 320.0s linear infinite">your code outlives your intentions. make it open.</text>
+  <text class="t" x="340" y="31" style="animation:k61 320.0s linear infinite">fork it. audit it. own it.</text>
+  <text class="t" x="340" y="31" style="animation:k62 320.0s linear infinite">build in the open. die in the open.</text>
+  <text class="t" x="340" y="31" style="animation:k63 320.0s linear infinite">hasPlan = false  //  intentional</text>
+  <text class="t" x="340" y="31" style="animation:k64 320.0s linear infinite">the future is unwritten. on purpose.</text>
+  <text class="t" x="340" y="31" style="animation:k65 320.0s linear infinite">i don't know what i'll build next.</text>
+  <text class="t" x="340" y="31" style="animation:k66 320.0s linear infinite">that's the whole point.</text>
+  <text class="t" x="340" y="31" style="animation:k67 320.0s linear infinite">version = double.infinity</text>
+  <text class="t" x="340" y="31" style="animation:k68 320.0s linear infinite">still compiling.</text>
+  <text class="t" x="340" y="31" style="animation:k69 320.0s linear infinite">upgrading. always.</text>
+  <text class="t" x="340" y="31" style="animation:k70 320.0s linear infinite">somewhere between now and whatever comes next.</text>
+  <text class="t" x="340" y="31" style="animation:k71 320.0s linear infinite">there are better alternatives to most things.</text>
+  <text class="t" x="340" y="31" style="animation:k72 320.0s linear infinite">someone has to build them.</text>
+  <text class="t" x="340" y="31" style="animation:k73 320.0s linear infinite">might as well be free.</text>
+  <text class="t" x="340" y="31" style="animation:k74 320.0s linear infinite">might as well be open.</text>
+  <text class="t" x="340" y="31" style="animation:k75 320.0s linear infinite">might as well be us.</text>
+  <text class="t" x="340" y="31" style="animation:k76 320.0s linear infinite">the internet deserves better software.</text>
+  <text class="t" x="340" y="31" style="animation:k77 320.0s linear infinite">i'm working on it.</text>
+  <text class="t" x="340" y="31" style="animation:k78 320.0s linear infinite">if you know, you know.</text>
+  <text class="t" x="340" y="31" style="animation:k79 320.0s linear infinite">— frkudn</text>
+</svg>
